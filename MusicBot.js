@@ -113,7 +113,7 @@ Please provide a value to select one of the search results ranging from 1-10.
 __**Song queue:**__
 
 ${serverQueue.songs.map(song => `**-** ${song.title}`).join('\n')}
-
+ 
 **Now playing:** ${serverQueue.songs[0].title}
 		`);
 	} else if (command === 'pause') {
