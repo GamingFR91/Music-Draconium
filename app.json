@@ -13,12 +13,12 @@
   "env": {
     "BOT_TOKEN": {
       "description": "The token copied in the first section.",
-      "required": "true"
+      "required": "true",
       "value": ""
     },
     "BOT_YOUTUBE_TOKEN": {
       "description": "The token copied in the second section.",
-      "required": "true"
+      "required": "true",
       "value": ""
 
     },
